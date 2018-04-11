@@ -1,1 +1,1 @@
-# SaliencyDetectionAgorithms
+# Saliency Detection Agorithms
