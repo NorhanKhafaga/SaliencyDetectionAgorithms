@@ -4,8 +4,7 @@
 clear;
 clc;
 [filename pathname]=uigetfile({'*.jpg'},'File Selector',...
-    ...%'C:\Users\DEll\Desktop\ColorSpatialDist\sumOfMaps_mag_ours\');
-    'E:\Master_Work\Saliency_Maps\1000_Original');
+    ...'\images\');
 if isequal(filename,0) || isequal(pathname,0);
     return; end %Pressed Cancel
 
