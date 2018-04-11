@@ -1,3 +1,5 @@
+%Author:Norhan Mohamed Saleh (Norhan khafaga)
+
 %take an image, then extract RGB-Y channels
 clear;
 clc;
